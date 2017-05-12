@@ -21,6 +21,7 @@ export class HomePage {
   setData()
   {
   	this.storage.set('nama','arya tri setyadi');
+  	console.log("bismillah");
   }
 
   getData()
